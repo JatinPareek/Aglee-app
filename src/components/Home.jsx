@@ -9,11 +9,11 @@ const Home = () => {
     <div className="bg-white">
       <div className="px-4 lg:px-14 max-w-screen-2xl mx-auto min-h-screen h-screen">
         <main
-          className="absolute top-[20px] left-[120.2px] w-[1310.8px] h-[815px] text-left text-lg text-darkgray"
+          className="absolute top-[20px] left-[120.2px] w-[1000.8px] h-[815px] text-left text-lg text-darkgray"
           id="Hero Sction"
         >
           <img
-            className="absolute top-[0px] left-[591.8px] w-[719px] h-[721px] object-cover"
+            className="absolute top-[0px] left-[591.8px] w-[619px] h-[621px] object-cover"
             alt=""
             src={heroimage}
           />
@@ -46,7 +46,7 @@ const Home = () => {
             alt=""
             src={mouseScroll}
           />
-          <div className="absolute top-[786px] left-[740.8px] w-[399px] h-[29px] text-right text-slateblue">
+          <div className="absolute top-[658px] left-[740.8px] w-[399px] h-[29px] text-right text-slateblue">
             <div className="absolute top-[4.5px] left-[0px] leading-[19px]">
               <img src={phonelogo} />
             </div>
