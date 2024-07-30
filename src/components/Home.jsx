@@ -45,6 +45,7 @@ const Home = () => {
             className="absolute top-[660px] left-[5.8px] w-[18px] h-6"
             alt=""
             src={mouseScroll}
+            
           />
           <div className="absolute top-[658px] left-[740.8px] w-[399px] h-[29px] text-right text-slateblue">
             <div className="absolute top-[4.5px] left-[0px] leading-[19px]">
